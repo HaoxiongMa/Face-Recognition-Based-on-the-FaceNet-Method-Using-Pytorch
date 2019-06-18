@@ -1,5 +1,6 @@
 # Face-Recognition-Based-on-the-FaceNet-Method-Using-Pytorch
-Final Project for UPENN ENM531 course.This project is created for UPENN ENM 531 final project. The code references the work from other authors and has been marked accordingly in the file.The content of the project is for reference only and should not be used for related courses assignments and any business purposes.
+Final Project for UPENN ENM531 course.
+This project is created for UPENN ENM 531 final project. The code references the work from other authors and has been marked accordingly in the file.The content of the project is for reference only and should not be used for related courses assignments and any business purposes.
 
 Process to ran the code:
 1.Run 'Train.py' to train the FaceNET model, 
